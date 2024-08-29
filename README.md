@@ -96,15 +96,6 @@ This Tool Must Run As ROOT !!!
 
 ### 方法一
 
-```git clone https://github.com/kukuqi666/hacktronian.git```
-
-```cd hacktronian```
-
-```chmod +x kali_install.sh```
-
-```bash kali_install.sh```
-
-### 方法二
 
 ```apt install git```
 
@@ -116,6 +107,16 @@ This Tool Must Run As ROOT !!!
 
 ```python2 hacktronian.py```
 
+
+### 方法二
+
+```git clone https://github.com/kukuqi666/hacktronian.git```
+
+```cd hacktronian```
+
+```chmod +x kali_install.sh```
+
+```bash kali_install.sh```
 
 That's it.. you can execute tool by typing **hacktronian**
 
