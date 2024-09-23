@@ -110,9 +110,7 @@ This Tool Must Run As ROOT !!!
 
 ### 方法二
 
-```git clone https://github.com/kukuqi666/hacktronian.git```
-
-```cd hacktronian```
+```wget -o kali_install.sh https://raw.githubusercontent.com/kukuqi666/hacktronian/main/kali_install.sh```
 
 ```chmod +x kali_install.sh```
 
@@ -138,9 +136,7 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ### 方法二
 
-```git clone https://github.com/kukuqi666/hacktronian.git```
-
-```cd hacktronian```
+```wget -o termux_install.sh https://raw.githubusercontent.com/kukuqi666/hacktronian/main/termux_install.sh```
 
 ```chmod +x termux_install.sh```
 
